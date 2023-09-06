@@ -17,33 +17,42 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<td align="center" width="25%">
+<img height=70px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+<td align="center" width="25%">
+<img height=70px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
+<td align="center" width="25%">
+<img height=70px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
 </td>
 
+<td align="center" width="25%">
+<img height=70px src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"> 
 </td>
 
 </tr>
 
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> 
+<td align="center" width="25%">
+<img height=70px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+<td align="center" width="25%">
+<img height=70px src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> 
 </td>
+
+<td align="center" width="25%">
+<img height=70px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+</td>
+
+<td align="center" width="25%">
+<img height=70px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> 
+</td>
+
+
 <tr>
  
  </tr>
@@ -68,10 +77,10 @@
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/heroku_flask/pocoo_flask-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> 
 </td>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/amzon_aws/amazon_aws-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> 
 </td>
 </tr>
 </tbody>
@@ -91,10 +100,6 @@
 </tr>
 </tbody>
 </table>
-
- - **Data Science**
-   - Machine Learning
-   - Artificial Intelligence
     
 <br>
 <p align="center">
