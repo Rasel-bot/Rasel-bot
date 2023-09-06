@@ -4,21 +4,11 @@
 -----
 #### I am a self-taught programmer, In my background it's hard to dare to dream. I really love to code and my dream. It's difficult to go to far by oneself. So, I need your help and advice.
 
-### My Goals ⛳:
-- **Competitive Coding**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+### My Goals 🎯:
+- 💻 **Fullstack Web Developer**
+- 👐 **Open source Contributor**
+- 🔢 **Manim Animator**
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
 
 ### My skills 👨‍💻:
 
@@ -47,7 +37,7 @@
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
  
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
@@ -114,8 +104,7 @@
 <a href="https://github.com/Rasel-bot">
   <img align="left" alt="Rasel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-<a href="https://www.hackerrank.com/ras">
+<a href="https://www.hackerrank.com/makruh420">
   <img align="left" alt="Rasel's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br><br>
