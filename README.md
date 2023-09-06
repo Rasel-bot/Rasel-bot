@@ -1,3 +1,4 @@
+
 ### Hello World, I'm Rasel Sheikh🖤:
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
@@ -49,33 +50,40 @@
 </tbody>
 </table>
 
-- **Data Science**
-  - Data Visualization
-  - Data Analysis
+- **Automation**
+  
  <table>
 <tbody>
- <tr>
+<tr>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
 </td>
 </tr>
 </tbody>
 </table>
 
 ### I'm currently learning :open_book:
-- **Competitive Coding**
-    - Dynamic Programming
+- **Cloud**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/heroku_flask/pocoo_flask-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/amzon_aws/amazon_aws-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+ 
     
 - **Web Development**
 <table>
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> 
 </td>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
@@ -95,11 +103,9 @@
 </p>
 
 <br> <br>
- <a href="https://twitter.com/ras">
-  <img align="left" alt="ras" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+ 
 <a href="https://www.linkedin.com/in/ras/">
-  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rasel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Rasel-bot">
   <img align="left" alt="Rasel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
