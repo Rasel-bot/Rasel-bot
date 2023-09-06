@@ -3,7 +3,7 @@
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 -----
-#### I am a self-taught programmer, In my background it's hard to dare to dream. I really love to code and my dream. It's difficult to go to far by oneself. So, I need your help and advice.
+#### I am a self-taught programmer from Bangladesh, In my background it's hard to dare to dream. I really love to code and my dream. It's difficult to go to far by oneself. So, I need your help and advice.
 
 ### My Goals 🎯:
 - 💻 **Fullstack Web Developer**
@@ -109,7 +109,7 @@
 
 <br> <br>
  
-<a href="https://www.linkedin.com/in/ras/">
+<a href="https://www.linkedin.com/in/rasel-sheikh-346118157/">
   <img align="left" alt="Rasel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Rasel-bot">
