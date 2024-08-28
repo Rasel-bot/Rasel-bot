@@ -3,7 +3,7 @@
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 -----
-#### I am a self-taught programmer from Bangladesh, In my background it's hard to dare to dream. I really love to code and my dream. It's difficult to go to far by oneself. So, I need your help and advice.
+#### I am programmer from Bangladesh, In my background it's hard to dare to dream. I really love to code and my dream. It's difficult to go to far by oneself. So, I need your help and advice.
 
 ### My Goals 🎯:
 - 💻 **Fullstack Web Developer**
@@ -95,7 +95,7 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> 
 </td>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> 
 </td>
 </tr>
 </tbody>
